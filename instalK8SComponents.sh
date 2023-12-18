@@ -8,6 +8,6 @@ EOF
 
 sudo apt-get update
 
-sudo apt-get install -y kubelet=1.27.0-00 kubeadm=1.27.0-00 kubectl=1.27.0-00
+sudo apt-get install -y kubelet=1.28.0-00 kubeadm=1.28.0-00 kubectl=1.28.0-00
 
 sudo apt-mark hold kubelet kubeadm kubectl
