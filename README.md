@@ -31,7 +31,7 @@ chmod +x setupContainerd.sh
 3. In your shell, execute following commands in all control plane & data plane nodes, they are for download script, give execution permissions to it and execute it.
 
 ```
-wget https://raw.githubusercontent.com/bsantacruz-code/K8S-ClusterCreation/main/instalK8SComponents.sh
+wget https://raw.githubusercontent.com/bsantacruz-code/K8S-ClusterCreation/main/installK8SComponents.sh
 
 chmod +x installK8SComponents.sh
 
