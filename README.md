@@ -8,6 +8,10 @@ This repo contains needed scripts to create a K8S cluster with kubeadm & K8S cor
 - **installK8SComponents.sh:** Install `K8S core components` for control plane & data plane, in addition, its configure prevention for K8S components upgrades.
 - **clusterInit.sh:** configure the cluster with `Calico` network Add-on and init K8S orchestrator with CIDR 192.168.0.0/16.
 
+## Prerequisites:
+
+- SO: Ubuntu 20.04 (Focal Fossa)
+
 ## Usage:
 
 ### Control & Data Planes:
