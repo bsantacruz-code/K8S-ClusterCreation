@@ -23,7 +23,7 @@ ssh -i <YourKey/PemFile> <user>@<public-ip-address>
 ```
 wget https://raw.githubusercontent.com/bsantacruz-code/K8S-ClusterCreation/main/setupContainerd.sh
 
-chmod +x setupContaiderd.sh
+chmod +x setupContainerd.sh
 
 ./setupContainerd.sh
 ```
